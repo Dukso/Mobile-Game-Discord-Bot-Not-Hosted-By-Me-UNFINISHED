@@ -14,10 +14,10 @@
 ##Now we can go onto the code where just run the codeor if you know how to set it up on a 24/7 server thingy but I just do it so it automatically runs when my PC turns on!
 
 ##If you have any Issues with the imports I reccomend doing this command in terminal (You can do WINDOW LOGO + R type cmd and press enter Idk how to do it in Mac
+pip install discord.py
 
-##pip install discord.py
-
-
+##To get the bot token go to Your Bot > Bot
+##if it dosn't show the token then press Reset Token!
 
 
 
